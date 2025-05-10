@@ -19,8 +19,8 @@ This Streamlit application enables users to perform question-answering over a co
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/rag-groq-qa.git
-   cd rag-groq-qa
+   git clone https://github.com/ssarthak0/Rag-Document-Q-A-with-GROQ-API-and-LLAMA-3
+   cd Rag-Document-Q-A-with-GROQ-API-and-LLAMA-3
    ```
 
 2. **Create a Virtual Environment**
